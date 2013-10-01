@@ -173,7 +173,7 @@ $wgExtensionMessagesFiles['TweetANew'] = $dir . 'TweetANew.i18n.php';
 $wgExtensionCredits['other'][] = array(
 	'path'           => __FILE__,
 	'name'           => 'TweetANew',
-	'version'        => '1.0.20111229-beta',
+	'version'        => '1.0.20111229+chaosdorf',
 	'author'         => '[https://www.mediawiki.org/wiki/User:Varnent Gregory Varnum] after merging extensions by
 						[https://www.mediawiki.org/wiki/User:Joa_ds Joachim De Schrijver], Andrew Fitzgerald, Wendell Gaudencio, and Rohit Keshwani',
 	'descriptionmsg' => 'tweetanew-desc',
